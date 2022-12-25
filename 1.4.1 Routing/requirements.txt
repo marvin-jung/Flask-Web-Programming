@@ -1,1 +1,6 @@
 flask==1.1.2
+
+https://dreamdeveloper403.tistory.com/27
+https://dreamdeveloper403.tistory.com/28
+https://shanepark.tistory.com/237
+https://nearhome.tistory.com/84
